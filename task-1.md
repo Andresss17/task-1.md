@@ -30,11 +30,12 @@
 — Android 10 Xiaomi Redmi Noute 8 pro (экран 6.53 дюймов) 
 Браузер Opera (мобильный)
 версия 61.2.3076.56749
-
+```
 - Assignee: Pavel Samsonov
 - Priority: Normal 
 - Followers: @fronted_team @backend_team 
 - Tags: state
+```
 ---
 BUG 2
 
